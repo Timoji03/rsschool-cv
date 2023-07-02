@@ -17,7 +17,7 @@ I want to learn several programming languages. Such as JS, Python and C++. If I'
 
 ##### Experience
 ***
-https://github.com/Timoji03/rsschool-cv/pull/new/gh-pages
+https://github.com/Timoji03/hw
 ##### Education
 ***
 * Secondary education
