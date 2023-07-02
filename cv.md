@@ -23,6 +23,6 @@ https://github.com/Timoji03/hw
 * Secondary education
 * University: Second year at the Czech University of Life Sciences
    - Logistician
-#####English
+##### English
 ***
 __A2__(I learned English at school)
