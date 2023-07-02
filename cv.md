@@ -1,6 +1,6 @@
 # Temirlan Yerdenbayev
 ***
-##Contacts
+## Contacts
 ***
 - __Location__: Karaganda, Kazakhstan
 - __Phone__: +7(702)731 38 08
