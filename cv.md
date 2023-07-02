@@ -9,7 +9,7 @@
 
 ### About Me
 ***
-I want to learn several programming languages. Such as JS, Python and C++. If I'm interested in any thing, I dive in headfirst, I'm very persistent. I want to learn JS first, and then Python. I know that programming is the future, so I want to get corrupted in it.
+I want to learn several programming languages. Such as JS, Python and C++. If I'm interested in any thing, I dive in headfirst, I'm very persistent. I want to learn JS first, and then Python. I know that programming is the future, so I want to get corrupted in it. I want to take a course at rsschool.
 
 #### Skills
 ***
